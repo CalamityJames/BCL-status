@@ -18,7 +18,7 @@ status-website:
   faviconSvg: https://github.com/CalamityJames/BetterCrewLink/raw/nightly-calamityjames/src/renderer/logos/BCL-AppIcon.svg
   name: CJ BetterCrewLink Status
   introTitle: "BetterCrewLink's status page"
-  introMessage: A status site for our services, some important and mod-needed (the BetterCrewLink Voice Server, Web and OBS Overlay) and some vanity / non-important (the Short URL)
+  introMessage: A status site for the RHS Crewlink server
   navbar:
     - title: Status
       href: /BCL-status
