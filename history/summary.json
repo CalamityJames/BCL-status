@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/rhs-crewlink.herokuapp.com",
     "slug": "rhs-crew-link-voice-server",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 440,
-    "timeDay": 438,
-    "timeWeek": 453,
+    "uptimeYear": "99.74%",
+    "time": 441,
+    "timeDay": 477,
+    "timeWeek": 454,
     "timeMonth": 446,
-    "timeYear": 440,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2021-07-25": 286
     }
