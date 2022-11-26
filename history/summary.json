@@ -4,18 +4,19 @@
     "url": "https://rhs-crewlink.herokuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/rhs-crewlink.herokuapp.com.ico",
     "slug": "rhs-crew-link-voice-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 505,
-    "timeDay": 421,
-    "timeWeek": 421,
-    "timeMonth": 577,
-    "timeYear": 457,
+    "timeDay": 376,
+    "timeWeek": 409,
+    "timeMonth": 569,
+    "timeYear": 456,
     "dailyMinutesDown": {
+      "2022-11-26": 0,
       "2022-11-02": 57
     }
   }
