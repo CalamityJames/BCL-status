@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rhs-crewlink.herokuapp.com.ico",
     "slug": "rhs-crew-link-voice-server",
     "status": "down",
-    "uptime": "58.48%",
+    "uptime": "58.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 437,
-    "timeDay": 282,
-    "timeWeek": 386,
-    "timeMonth": 404,
-    "timeYear": 428,
+    "time": 444,
+    "timeDay": 3865,
+    "timeWeek": 858,
+    "timeMonth": 519,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-11-27": 73,
+      "2023-11-28": 74,
+      "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -379,8 +380,7 @@
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
-      "2022-11-29": 1440,
-      "2022-11-28": 1440
+      "2022-11-29": 1440
     }
   }
 ]
